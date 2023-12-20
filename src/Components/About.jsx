@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "C/C++",
+  "GoLang",
+  "Malware Analysis",
+  "VAPT",
+  "Database",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm having the knowledge of complex computer systems and technical cyber security terms ,work with clients to determine their requirements from the test, for example, the number and type of systems they would like testing plan and create penetration methods, scripts and tests carry out remote testing of a client's network or onsite testing of their infrastructure to expose weaknesses in security simulate security breaches to test a system's relative security.";
 
 const About = () => {
   return (

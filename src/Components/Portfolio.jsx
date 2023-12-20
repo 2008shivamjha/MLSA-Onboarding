@@ -31,28 +31,28 @@ const imageAltText = "Laptop Keyboard with Coffee and notepad ";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Live Image Capture (Kali Linux/Termux/Terminal): 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The MediaDevices.getUserMedia() method prompts the user for permission to use a media input which produces a MediaStream with tracks containing the requested types of media.",
+    url: "https://github.com/2008shivamjha/SmilePlease",
   },
   {
-    title: "Web Development for Beginners",
+    title: "OSINT Tool for Instagram",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Instashell is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.",
+    url: "https://github.com/2008shivamjha/instashell",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created using HTML,SCSS and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/2008shivamjha/Portfolio-Website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chatbox using GoLang",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A chatbot is a software application or web interface that is designed to mimic human conversation through text or voice interactions.",
+    url: "https://github.com/2008shivamjha/CHATBOX",
   },
 ];
 
